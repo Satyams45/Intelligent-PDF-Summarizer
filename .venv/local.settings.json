@@ -1,0 +1,14 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "AzureWebJobsFeatureFlags": "EnableWorkerIndexing",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "BLOB_STORAGE_ENDPOINT": "https://intelligentpdfstore.blob.core.windows.net/",
+
+    "COGNITIVE_SERVICES_ENDPOINT": "",
+    "AZURE_OPENAI_ENDPOINT": "https://canadacentral.api.cognitive.microsoft.com/",
+    "AZURE_OPENAI_KEY": "170f38bb794e42748890c8a865f09415",
+    "CHAT_MODEL_DEPLOYMENT_NAME": "gpt-35-turbo"
+  }
+}
